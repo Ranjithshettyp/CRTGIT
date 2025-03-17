@@ -15,7 +15,7 @@ Suite Teardown          Close All Browsers
 
 *** Test Cases ***
 
-# Tip: Test cases start from here. The structure of a test case is as follows:
+# Tip: Test cases start from here. The structure of a test case is as follows
 #      Name of the test
 #          [Documentation]    A short explanation of the test.
 #          Test steps
